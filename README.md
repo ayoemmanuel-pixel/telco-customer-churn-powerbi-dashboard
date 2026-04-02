@@ -36,10 +36,10 @@ The objective is to identify key drivers of churn and quantify revenue at risk t
 ## 📸 Dashboard Preview
 
 ### Executive Overview
-![Page 1](insert_image_link_here)
+![Page 1](images/page1.png)
 
 ### Customer & Revenue Risk Analysis
-![Page 2](insert_image_link_here)
+![Page 2](images/page2.png)
 
 ---
 
